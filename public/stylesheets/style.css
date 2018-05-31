@@ -1,0 +1,16 @@
+body
+{
+	backgrond-color: yellow;
+   
+}
+.sidebar-nav {
+	color: red;
+	border-style: solid;
+	border-width: 2px;
+	border-color: red;
+    margin-top: 50px;
+    padding: 10;
+    list-style: none;
+    #p {background-color: #0000ff;}
+}
+ 
